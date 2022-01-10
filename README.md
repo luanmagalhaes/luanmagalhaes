@@ -1,6 +1,10 @@
 ### Hello there 🤓🖖,
 
-<h3>I am Luan Magalhães</h3>
+<h3 align="center">I am Luan Magalhães</h3>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=luanmagalhaes" alt="luanmagalhaes" /></p>
+<p align="center">
+ <img alt="web dev gif" src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50%" height="50%"/>
+</p> 
 
 - 🔭 I am currently working on Front End (React JS, TypeScript, JavaScript)
 - 👨🏽‍🔬 I am a Speech and Language Pathologist with a degree in Brazil and Canada
