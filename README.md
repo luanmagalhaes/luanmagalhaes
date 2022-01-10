@@ -6,7 +6,7 @@
  <img alt="web dev gif" src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50%" height="50%"/>
 </p> 
 
-- 🔭 I am currently working on Front End (React JS, TypeScript, JavaScript)
+- 🔭 I am currently working as a Front End Developer (React JS, TypeScript, JavaScript)
 - 👨🏽‍🔬 I am a Speech and Language Pathologist with a degree in Brazil and Canada
 - 📘 I have been working towards my Master's degree at a Federal University in Brazil
 - 🤓 I am a former English Teacher
