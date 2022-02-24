@@ -10,7 +10,6 @@
 - 👨🏽‍🔬 I am a Speech and Language Pathologist with a degree in Brazil and Canada
 - 📘 I have been working towards my Master's degree at a Federal University in Brazil
 - 🤓 I am a former English Teacher
-- 🖥️ I’m currently learning JEST
 - 😄 Pronouns: He/Him
 - 🐕 Fun fact: Matilda is my dog and she's psychic
 
