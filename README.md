@@ -8,8 +8,8 @@
 
 - 🔭 I am currently working as a Front End Developer (React JS, TypeScript, JavaScript)
 - 👨🏽‍🔬 I am a Speech and Language Pathologist with a degree in Brazil and Canada
-- 📘 I have been working towards my Master's degree at a Federal University in Brazil
-- 🤓 I am a former English Teacher
+- 📘 I have a Master's degree at a Federal University in Brazil
+- 🤓 I am a former English Teacher and I am currently learning German
 - 😄 Pronouns: He/Him
 - 🐕 Fun fact: Matilda is my dog and she's psychic
 
