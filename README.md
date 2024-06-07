@@ -6,7 +6,7 @@
  <img alt="web dev gif" src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50%" height="50%"/>
 </p> 
 
-- 🔭 I am currently working as a Front End Developer (React JS, Next JS, TypeScript, JavaScript, GraphQL) - (using Gitlab and Bitbucket for the past 2 years)
+- 🔭 I am currently working as a Front End Software Engineer (React JS, Next JS, TypeScript, JavaScript, GraphQL) - (using Gitlab and Bitbucket for the past 2 years)
 - 👨🏽‍🔬 I am a Speech and Language Pathologist with a degree in Brazil and Canada
 - 👨🏽‍🔬 I have been studying Internet Systems at Unicesumar
 - 📘 I have a Master's degree at a Federal University in Brazil
