@@ -92,6 +92,14 @@ Party games and small tools I play with my friends every week. Each one went fro
 | **Flip Score** | Scoreboard for card game nights, with photos of the players | [flip-score.vercel.app](https://flip-score.vercel.app) | [flip-score](https://github.com/luanmagalhaes/flip-score) |
 | **La Cuentita** | Does the bar bill math for a card game night, no calculator needed | [la-cuentita-green.vercel.app](https://la-cuentita-green.vercel.app) | [la-cuentita](https://github.com/luanmagalhaes/la-cuentita) |
 
+**Private apps for my own routine** (no public link):
+
+- **Reps:** workout tracker with a dashboard for my personal trainer, remembered loads and a rest timer that alerts even with the app closed.
+- **Matilda:** everything about my dog. Baths with a payment cycle, vaccines, weight, food and expenses, with PIN access and per-tab permissions for whoever takes care of her.
+- **Washing Issues:** prototype for my building's laundry. Residents send their laundry list with a photo of each item, the staff starts the wash and marks it ready, and residents confirm the pickup, with chat in between.
+- **Game Night:** our game nights. Guests, RSVP and arrival, games played, badges and polaroid style photos.
+- **Regalo:** gift list for our group of friends, with sizes, preferences and a birthday countdown.
+
 ## Toolbox
 
 **Engineering**

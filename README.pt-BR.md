@@ -92,6 +92,14 @@ Party games e ferramentas que eu jogo com os amigos toda semana. Cada um foi do 
 | **Flip Score** | Placar para as noites de cartas, com a foto de quem está jogando | [flip-score.vercel.app](https://flip-score.vercel.app) | [flip-score](https://github.com/luanmagalhaes/flip-score) |
 | **La Cuentita** | Faz a conta da mesa na noite de cartas, sem calculadora | [la-cuentita-green.vercel.app](https://la-cuentita-green.vercel.app) | [la-cuentita](https://github.com/luanmagalhaes/la-cuentita) |
 
+**Apps privados para a minha rotina** (sem link público):
+
+- **Reps:** app de treino com painel para o meu personal, carga lembrada e timer de descanso que avisa mesmo com o app fechado.
+- **Matilda:** tudo da minha cachorra. Banhos com ciclo de pagamento, vacinas, peso, ração e gastos, com acesso por PIN e permissão por aba para quem cuida dela.
+- **Washing Issues:** protótipo da lavanderia do prédio. O morador envia o rol com foto de cada peça, a equipe inicia a lavagem e marca como pronto, e o morador confirma a retirada, com chat entre os dois.
+- **Game Night:** nossas noites de jogos. Convidados, confirmação e chegada, jogos da noite, selos e fotos estilo polaroid.
+- **Regalo:** lista de presentes da turma, com tamanhos, preferências e contagem para os aniversários.
+
 ## Ferramentas
 
 **Engenharia**
