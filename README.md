@@ -40,11 +40,11 @@ Credit marketplace where companies sell their receivables through a reverse auct
 `Next.js` `React` `TypeScript` `Python` `Django` `PostgreSQL` `Celery` `Azure` `OpenAI` `Anthropic` `PostHog`
 
 ### Miinto · Frontend engineer
-*Feb 2025 to present · Denmark, remote*
+*Feb 2025 to Aug 2026 · Denmark, remote*
 
 Fashion marketplace connecting independent boutiques and brands with customers across Europe.
 
-- Maintain and extend the React design system (Stitches, Radix, Storybook, Jest) used by the store's micro-frontends.
+- Maintained and extended the React design system (Stitches, Radix, Storybook, Jest) used by the store's micro-frontends.
 - Redesigned the product listing page (filters, in-filter search, price filter, sorting, mobile) and the account area (sign-up, login, profile), integrated with server-rendered Go micro-frontends.
 - Technical SEO on the Go-rendered pages, with indexing rules for pagination and filter combinations, and legal content across 12 sales channels.
 - Delivered the order email history end to end in the Module Federation back office, with preview and resend.

@@ -40,11 +40,11 @@ Marketplace de crédito em que empresas antecipam recebíveis por leilão revers
 `Next.js` `React` `TypeScript` `Python` `Django` `PostgreSQL` `Celery` `Azure` `OpenAI` `Anthropic` `PostHog`
 
 ### Miinto · Frontend engineer
-*fev 2025 a atual · Dinamarca, remoto*
+*fev 2025 a ago 2026 · Dinamarca, remoto*
 
 Marketplace de moda que conecta boutiques independentes e marcas a clientes em vários países da Europa.
 
-- Mantenho e amplio o design system em React (Stitches, Radix, Storybook, Jest) usado pelos micro-frontends da loja.
+- Mantive e ampliei o design system em React (Stitches, Radix, Storybook, Jest) usado pelos micro-frontends da loja.
 - Redesenhei a listagem de produtos (filtros, busca no filtro, filtro de preço, ordenação, mobile) e a área logada (cadastro, login, perfil), integradas aos micro-frontends em Go com SSR.
 - SEO técnico nas páginas renderizadas em Go, com regras de indexação por paginação e por combinação de filtros, e conteúdo legal em 12 canais de venda.
 - Entreguei de ponta a ponta o histórico de e-mails do pedido no backoffice com Module Federation, com preview e reenvio.
