@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2d52,55:1f5fa8,100:0e8a74&height=190&section=header&text=Luan%20Magalh%C3%A3es&fontColor=ffffff&fontSize=44&fontAlignY=34&desc=Senior%20Software%20Engineer%20%C2%B7%20Full%20Stack%20and%20AI&descAlignY=55&descSize=18" alt="Luan Magalhães, Senior Software Engineer, Full Stack and AI" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,55:7c3aed,100:16a34a&height=190&section=header&text=Luan%20Magalh%C3%A3es&fontColor=ffffff&fontSize=44&fontAlignY=34&desc=Senior%20Software%20Engineer%20%C2%B7%20Full%20Stack%20and%20AI&descAlignY=55&descSize=18" alt="Luan Magalhães, Senior Software Engineer, Full Stack and AI" />
 
 <p align="center">
   <a href="https://github.com/luanmagalhaes">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full+stack+since+2021;Built+by+hand%2C+sped+up+with+AI;React%2C+Next.js%2C+Node.js+and+Python;Agents%2C+tool+use+and+MCP+servers;From+client+meeting+to+prototype+in+days&font=Fira%20Code&size=20&color=0E8A74&center=true&vCenter=true&width=560&height=45&pause=900" alt="Full stack since 2021, built by hand, sped up with AI" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full+stack+since+2021;Built+by+hand%2C+sped+up+with+AI;React%2C+Next.js%2C+Node.js+and+Python;Agents%2C+tool+use+and+MCP+servers;From+client+meeting+to+prototype+in+days&font=Fira%20Code&size=20&color=7C3AED&center=true&vCenter=true&width=560&height=45&pause=900" alt="Full stack since 2021, built by hand, sped up with AI" />
   </a>
 </p>
 
@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luan-magalhaes-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:m.agalhaes@hotmail.com"><img src="https://img.shields.io/badge/Email-0E8A74?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Brazil%20%C2%B7%20remote%20(UTC--3)-1F5FA8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Brazil, remote (UTC-3)" />
-  <img src="https://komarev.com/ghpvc/?username=luanmagalhaes&color=0e8a74&style=for-the-badge&label=Profile+views" alt="Profile views" />
+  <a href="mailto:m.agalhaes@hotmail.com"><img src="https://img.shields.io/badge/Email-16A34A?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Brazil%20%C2%B7%20remote%20(UTC--3)-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Brazil, remote (UTC-3)" />
+  <img src="https://komarev.com/ghpvc/?username=luanmagalhaes&color=ca8a04&style=for-the-badge&label=Profile+views" alt="Profile views" />
 </p>
 
 ## About me
@@ -84,13 +84,13 @@ Party games and small tools I play with my friends every week. Each one went fro
 
 | App | What it is | Play | Code |
 | --- | --- | --- | --- |
-| **Vitrola** | Music game: listen to a 30 second Deezer preview and place the song on your timeline | [hitster-blond.vercel.app](https://hitster-blond.vercel.app) | [hitster](https://github.com/luanmagalhaes/hitster) |
-| **Lá Lá Lá** | Team party game about songs, with an online mode that streams microphone audio | [la-la-la-two.vercel.app](https://la-la-la-two.vercel.app) | [la-la-la](https://github.com/luanmagalhaes/la-la-la) |
-| **Não Vale** | Taboo-style word game where the other team's judge sees the card on their own phone | [nao-vale.vercel.app](https://nao-vale.vercel.app) | [nao-vale](https://github.com/luanmagalhaes/nao-vale) |
+| **Vitrola** | Music game: listen to a 30 second Deezer preview and place the song on your timeline | [a-vitrola.vercel.app](https://a-vitrola.vercel.app) | [vitrola](https://github.com/luanmagalhaes/vitrola) |
+| **Cantarolá** | Team party game about songs, with an online mode that streams microphone audio | [cantarola.vercel.app](https://cantarola.vercel.app) | [cantarola](https://github.com/luanmagalhaes/cantarola) |
+| **Não Vale** | Forbidden words game where the other team's judge sees the card on their own phone | [nao-vale.vercel.app](https://nao-vale.vercel.app) | [nao-vale](https://github.com/luanmagalhaes/nao-vale) |
 | **FLOW** | Everyone writes what they think the table will write, 3 to 12 players, each on their own phone | [flow-seven-amber.vercel.app](https://flow-seven-amber.vercel.app) | [flow](https://github.com/luanmagalhaes/flow) |
-| **Slip It In** | Each player gets secret phrases to sneak into the conversation without being caught | [slip-it-in.vercel.app](https://slip-it-in.vercel.app) | [Slip-it-in](https://github.com/luanmagalhaes/Slip-it-in) |
-| **Flip Score** | Scoreboard for the Flip 7 card game, with photos of the players | [flip-score.vercel.app](https://flip-score.vercel.app) | [flip-score](https://github.com/luanmagalhaes/flip-score) |
-| **La Cuentita** | Does the math for the La Cuenta card game, no calculator needed | [la-cuentita-green.vercel.app](https://la-cuentita-green.vercel.app) | [la-cuentita](https://github.com/luanmagalhaes/la-cuentita) |
+| **De Fininho** | Each player gets secret phrases to sneak into the conversation without being caught | [de-fininho.vercel.app](https://de-fininho.vercel.app) | [de-fininho](https://github.com/luanmagalhaes/de-fininho) |
+| **Flip Score** | Scoreboard for card game nights, with photos of the players | [flip-score.vercel.app](https://flip-score.vercel.app) | [flip-score](https://github.com/luanmagalhaes/flip-score) |
+| **La Cuentita** | Does the bar bill math for a card game night, no calculator needed | [la-cuentita-green.vercel.app](https://la-cuentita-green.vercel.app) | [la-cuentita](https://github.com/luanmagalhaes/la-cuentita) |
 
 ## Toolbox
 
@@ -131,9 +131,9 @@ Party games and small tools I play with my friends every week. Each one went fro
   <img src="https://img.shields.io/badge/Anthropic%20SDK-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic SDK" />
   <img src="https://img.shields.io/badge/OpenAI%20and%20Azure%20OpenAI-412991?style=for-the-badge" alt="OpenAI and Azure OpenAI" />
   <img src="https://img.shields.io/badge/LangChain%20and%20LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain and LangGraph" />
-  <img src="https://img.shields.io/badge/MCP-0E8A74?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/MCP-16A34A?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
   <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
-  <img src="https://img.shields.io/badge/Whisper-1F5FA8?style=for-the-badge" alt="Whisper" />
+  <img src="https://img.shields.io/badge/Whisper-7C3AED?style=for-the-badge" alt="Whisper" />
 </p>
 
 ## Education
@@ -145,9 +145,14 @@ Party games and small tools I play with my friends every week. Each one went fro
 
 ## Languages
 
-![Portuguese](https://img.shields.io/badge/Portuguese-Native-0f2d52?style=flat-square)
-![English](https://img.shields.io/badge/English-Proficient%20(C2)-1f5fa8?style=flat-square)
-![Italian](https://img.shields.io/badge/Italian-Basic-0e8a74?style=flat-square)
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-5b21b6?style=flat-square)
+![English](https://img.shields.io/badge/English-Proficient%20(C2)-16a34a?style=flat-square)
+![Italian](https://img.shields.io/badge/Italian-Basic-eab308?style=flat-square)
+
+## Matilda
+
+<p align="center"><img src="./assets/matilda.jpg" width="220" alt="Matilda, my dog" /></p>
+<p align="center">This is Matilda, my dog. Fun fact: she is psychic.</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luanmagalhaes/luanmagalhaes/output/snake-dark.svg" />
@@ -155,4 +160,4 @@ Party games and small tools I play with my friends every week. Each one went fro
   <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/luanmagalhaes/luanmagalhaes/output/snake.svg" />
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f5fa8,100:2a9d63&height=110&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:facc15&height=110&section=footer" alt="" />
