@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/luan-magalhaes-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:m.agalhaes@hotmail.com"><img src="https://img.shields.io/badge/Email-16A34A?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Brazil%20%C2%B7%20remote%20(UTC--3)-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Brazil, remote (UTC-3)" />
-  <img src="https://komarev.com/ghpvc/?username=luanmagalhaes&color=ca8a04&style=for-the-badge&label=Profile+views" alt="Profile views" />
+  <img src="https://hits.sh/github.com/luanmagalhaes.svg?style=for-the-badge&label=Profile%20views&color=ca8a04" alt="Profile views" />
 </p>
 
 ## About me
@@ -145,9 +145,9 @@ Party games and small tools I play with my friends every week. Each one went fro
 
 ## Languages
 
-![Portuguese](https://img.shields.io/badge/Portuguese-Native-5b21b6?style=flat-square)
-![English](https://img.shields.io/badge/English-Proficient%20(C2)-16a34a?style=flat-square)
-![Italian](https://img.shields.io/badge/Italian-Basic-eab308?style=flat-square)
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-7C3AED?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Proficient%20(C2)-16A34A?style=for-the-badge)
+![Italian](https://img.shields.io/badge/Italian-Basic-CA8A04?style=for-the-badge)
 
 ## Matilda
 
