@@ -22,7 +22,7 @@
 - A IA me deixa mais rápido. Uso o Claude Code todos os dias, muitas vezes com vários agentes em paralelo, e coloco IA dentro do produto: análise por LLM, agentes com tool use e servidores MCP.
 - Gosto de trabalhar perto do cliente: entrar na reunião, fechar o escopo e colocar um protótipo funcionando em produção em poucos dias.
 - Inglês proficiente (C2). Fui professor de inglês por cinco anos e estudei na University of Manitoba, no Canadá, com bolsa de um programa seletivo.
-- Mestre pela UFBA e ex-fonoaudiólogo.
+- Tecnólogo em Sistemas para Internet (Unicesumar, 2025), mestre pela UFBA e ex-fonoaudiólogo.
 
 ## Experiência
 
@@ -146,8 +146,8 @@ Party games e ferramentas que eu jogo com os amigos toda semana. Cada um foi do 
 
 ## Formação
 
+- Tecnologia em Sistemas para Internet, Unicesumar (2025)
 - Mestrado em Processos Interativos dos Órgãos e Sistemas, UFBA (2022)
-- Tecnologia em Sistemas para Internet, Unicesumar
 - University of Manitoba, Canadá: intercâmbio em Ciências da Saúde com bolsa de programa seletivo e curso intensivo de inglês (2014 e 2015)
 - Fonoaudiologia, UNEB (2015)
 

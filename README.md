@@ -22,7 +22,7 @@
 - AI makes me faster. I use Claude Code every day, often with several agents in parallel, and I build AI into products: LLM analysis, tool-using agents and MCP servers.
 - I like working close to clients: joining the meeting, agreeing on scope and getting a working prototype into production within a few days.
 - Proficient English (C2). I taught English for five years and studied at the University of Manitoba, Canada, on a selective scholarship program.
-- MSc from the Federal University of Bahia and former speech-language pathologist.
+- Technologist degree in Internet Systems Development (Unicesumar, 2025), MSc from the Federal University of Bahia and former speech-language pathologist.
 
 ## Experience
 
@@ -146,8 +146,8 @@ Party games and small tools I play with my friends every week. Each one went fro
 
 ## Education
 
+- Internet Systems Development (technologist degree), Unicesumar (2025)
 - MSc in Interactive Processes of Organs and Systems, Federal University of Bahia (2022)
-- Internet Systems Development (technologist degree), Unicesumar
 - University of Manitoba, Canada: Health Sciences exchange on a selective scholarship program, with an intensive English course (2014 to 2015)
 - BSc in Speech-Language Pathology, State University of Bahia (2015)
 
